@@ -1,7 +1,14 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=FFA500&height=200&descAlign=50&fontAlign=50&section=header&text=SeongHwan Oh&fontSize=65&fontColor=2E2E2E&animation=twinkling)  
+### Hi, This is SeongHwan Oh 👋
 
-### Hi there 👋
-
+<div align="center">
+    
+### 🌱 Web Developer 🌱
+    
+    I am a Soongsil Uni student.  
+    I am developing web using java and javascript. 
+    They are interested in learning new things and are growing gradually.
+    I may not be the best, but I will do my best always.
+<br/>
 <!--
 **osh0678/osh0678** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
