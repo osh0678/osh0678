@@ -10,7 +10,8 @@
     They are interested in learning new things and are growing gradually.
     I may not be the best, but I will do my best always.
 <br/>
-    
+</div>
+
  ## 💻 Tech Stacks 💻
     
 Techs i used <br/> 
